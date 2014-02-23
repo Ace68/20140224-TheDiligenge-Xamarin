@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Coaches">The D Coaches</string>
+    <string name="omar">Omar</string>
+    <string name="gianni">Gianni</string>
+    <string name="alberto">Alberto</string>
+    <string name="marco">Marco</string>
+    <string name="sergio">Sergio</string>
+    <string name="ApplicationName">TheDiligence App</string>
+</resources>

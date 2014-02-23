@@ -1,0 +1,5 @@
+TheD.Activities.CoachesActivity;thed.activities.CoachesActivity
+TheD.Activities.GianniActivity;thed.activities.GianniActivity
+TheD.Activities.OmarActivity;thed.activities.OmarActivity
+TheD.MainActivity;thed.MainActivity
+TheD.SplashActivity;thed.SplashActivity
