@@ -38,7 +38,7 @@ namespace TheD
 
         private void sessionsButton_Click(object sender, EventArgs e)
         {
-            
+            StartActivity(typeof(SessionsActivity));
         }
 
     }

@@ -25,3 +25,4 @@ C:\Sviluppo\Android\TheD\TheD\obj\Debug\res\layout-port\coacheslayout.xml
 C:\Sviluppo\Android\TheD\TheD\obj\Debug\res\layout-port\giannilayout.xml
 C:\Sviluppo\Android\TheD\TheD\obj\Debug\res\layout-port\main.xml
 C:\Sviluppo\Android\TheD\TheD\obj\Debug\res\drawable\call.png
+C:\Sviluppo\Android\TheD\TheD\obj\Debug\res\layout-port\sessionslayout.xml

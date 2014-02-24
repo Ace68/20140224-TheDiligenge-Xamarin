@@ -5,6 +5,7 @@
     <activity android:label="The Coaches" android:name="thed.activities.CoachesActivity" />
     <activity android:label="Gianni" android:name="thed.activities.GianniActivity" />
     <activity android:label="Omar" android:name="thed.activities.OmarActivity" />
+    <activity android:label="Sessions" android:name="thed.activities.SessionsActivity" />
     <activity android:icon="@drawable/icon" android:label="The Diligenge" android:name="thed.MainActivity" />
     <activity android:noHistory="true" android:theme="@style/Theme.Splash" android:name="thed.SplashActivity" />
     <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="TheD.TheD.mono.MonoRuntimeProvider.__mono_init__" />

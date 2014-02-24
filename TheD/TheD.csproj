@@ -53,6 +53,7 @@
     <Compile Include="Activities\CoachesActivity.cs" />
     <Compile Include="Activities\GianniActivity.cs" />
     <Compile Include="Activities\OmarActivity.cs" />
+    <Compile Include="Activities\SessionsActivity.cs" />
     <Compile Include="MainActivity.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -71,6 +72,9 @@
       <SubType>AndroidResource</SubType>
     </AndroidResource>
     <AndroidResource Include="Resources\layout-land\OmarLayout.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout-port\SessionsLayout.axml">
       <SubType>AndroidResource</SubType>
     </AndroidResource>
   </ItemGroup>
